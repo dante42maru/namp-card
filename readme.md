@@ -1,8 +1,8 @@
-# namp-card
+# n(amp)-card
 
 > AMPlified (very simple) name card as Progressive Web App. See this for [working app](https://pwa-workshop.github.io/namp-card/)
 
-![](https://cloud.githubusercontent.com/assets/124117/21413044/002e05fc-c838-11e6-84e0-e69010025287.png)
+![](https://cloud.githubusercontent.com/assets/124117/21413209/0724aeb4-c839-11e6-8368-c8bfb09ddc63.png)
 
 # How to run
 
