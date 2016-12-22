@@ -1,6 +1,8 @@
 # namp-card
 
-> AMPlified (very simple) name card as Progressive Web App
+> AMPlified (very simple) name card as Progressive Web App. See this for [working app](https://pwa-workshop.github.io/namp-card/)
+
+![]https://cloud.githubusercontent.com/assets/124117/21413044/002e05fc-c838-11e6-84e0-e69010025287.png()
 
 # How to run
 
@@ -16,6 +18,13 @@ npm test
 # deploy
 npm run deploy
 ```
+
+# Related Materials
+
+- [AMP 101]
+- [PWA 101: Service Worker for very newbies in Korea](https://github.com/pwa-workshop/roadshow/blob/master/pwa-sw-101.md) - @cwdoh
+- [Turn into an Installable Webapp in Korean](https://github.com/pwa-workshop/roadshow/blob/master/turn-into-an-installable-webapp.md) - @ragingwind
+- [Codelab Guide in Korean](https://github.com/pwa-workshop/namp-card/blob/master/docs/codelab.kr.md)
 
 # References
 
