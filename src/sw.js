@@ -2,7 +2,11 @@
 
 var CACHE_NAME = 'namp-card.firebaseapp.com-cache-v1';
 var urlsToCache = [
-	'/'
+	'/',
+	'/index.html',
+	'/profile.png',
+	'icon-192x192.png',
+	'icon-384x384.png'
 ];
 
 self.addEventListener('install', function(event) {
