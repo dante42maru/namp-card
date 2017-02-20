@@ -10,7 +10,7 @@
   "author": "ragingwind <ragingwind@gmail.com>",
   "scripts": {
     "start": "http-server . -a localhost -o /namp-card",
-    "test": "amphtml-validator ./namp-card/index.html",
+    "test": "amphtml-validator ./src/index.html",
     "deploy": "firebase deploy"
   },
   "license": "MIT",
