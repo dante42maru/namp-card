@@ -1,8 +1,8 @@
 // sw.js
 
-var CACHE_NAME = 'pwa-workshop.github.id-namp-card-cache-v1';
+var CACHE_NAME = 'namp-card.firebaseapp.com-cache-v1';
 var urlsToCache = [
-	'/namp-card'
+	'/'
 ];
 
 self.addEventListener('install', function(event) {

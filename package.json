@@ -11,12 +11,11 @@
   "scripts": {
     "start": "http-server . -a localhost -o /namp-card",
     "test": "amphtml-validator ./namp-card/index.html",
-    "deploy": "gh-pages -d namp-card"
+    "deploy": "firebase deploy"
   },
   "license": "MIT",
   "devDependencies": {
     "amphtml-validator": "^1.0.15",
-    "gh-pages": "^0.12.0",
     "http-server": "^0.9.0"
   }
 }
