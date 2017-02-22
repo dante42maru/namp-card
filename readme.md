@@ -28,7 +28,7 @@ npm run deploy
 
 # Demo
 
-- [실제 서비스 (Working Demo)](https://namp-card.firebaseapp.com)
+- [실제 서비스 (Working Demo)](https://namp-card.firebaseapp.comg)
 - [모바일 동작 동영상 (Working Demo on Mobile Device)](https://youtu.be/F4J5Xd1X8xo)
 
 # References
