@@ -9,7 +9,7 @@
   },
   "author": "ragingwind <ragingwind@gmail.com>",
   "scripts": {
-    "start": "http-server . -a localhost -o /namp-card",
+    "start": "http-server ./src -a localhost -o",
     "test": "amphtml-validator ./src/index.html",
     "deploy": "firebase deploy"
   },
