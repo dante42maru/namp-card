@@ -21,7 +21,7 @@ npm run deploy
 
 # Related Materials
 
-- [AMP 101: AMP 에 대해서 (Accelerated Mobile Pages in Korea)](https://github.com/pwa-workshop/roadshow/blob/master/amp-101.md)
+- [AMP 101: AMP 에 대해서 (Accelerated Mobile Pages in Korea)](https://github.com/pwa-workshop/roadshow/blob/master/amp-101.md) - @techhtml
 - [PWA 101: 초심자를 위한 서비스 워커 (Service Worker for very newbies in Korea)](https://github.com/pwa-workshop/roadshow/blob/master/pwa-sw-101.md) - @cwdoh
 - [설치형 웹앱 만들기 (Installable Webapp in Korean)](https://github.com/pwa-workshop/roadshow/blob/master/turn-into-an-installable-webapp.md) - @ragingwind
 - [코드랩 가이드 (Codelab Guide in Korean)](https://github.com/pwa-workshop/namp-card/wiki/%EC%BD%94%EB%93%9C%EB%9E%A9(Codelab)-%EA%B0%80%EC%9D%B4%EB%93%9C-%EB%AC%B8%EC%84%9C)
